@@ -1,0 +1,10 @@
+\contentsline {section}{\centering 目录}{1}{figure.caption.1}%
+\contentsline {section}{\numberline {1\,}实验要求与分析}{2}{section.1}%
+\contentsline {section}{\numberline {2\,}模块设计流程}{3}{section.2}%
+\contentsline {subsection}{\numberline {2\,.\,1}DDS信号发生模块设计}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2\,.\,2}频率测量模块设计}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2\,.\,3}UART模块设计}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2\,.\,4}数码管显示与控制模块设计}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2\,.\,5}幅度调整功能设计}{4}{subsection.2.5}%
+\contentsline {section}{\numberline {3\,}总结与体会}{4}{section.3}%
+\contentsline {section}{\numberline {4\,}部分核心代码}{4}{section.4}%
